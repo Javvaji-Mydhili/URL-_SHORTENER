@@ -39,21 +39,5 @@ bttn.pack()
 
 my_app.mainloop()
 
-
-# In[2]:
-
-
 get_ipython().system('pip install pyshorteners')
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
