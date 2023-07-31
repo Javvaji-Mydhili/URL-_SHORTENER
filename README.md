@@ -1,1 +1,1 @@
-# URL-_SHORTENER
+I have done the URL SHORTENER project from the code clause. The primary function of the URL shortener is to take a long URL input from the user and create a corresponding shortened URL. To generate the shortened URL, the system uses an algorithm that converts the long URL into a unique shortcode. This shortcode is appended to the domain name to form the shortened URL. The code is done by using Python.
